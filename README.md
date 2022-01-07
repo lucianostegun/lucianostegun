@@ -1,29 +1,43 @@
-### Hi, I'm Luciano Stegun 👋
+## Hi, I'm Luciano Stegun 👋
 
-🧔🏻‍♂️ Father;<br/>
-🥷 Ninja coder;<br/>
-📸 Photographer;<br/>
-♦️ Poker player;<br/>
-🪄 Magician;<br/>
-🪂 Sky diver;<br/>
-👨🏻‍✈️ Fight pilot;<br/>
-🧑🏻‍🚀 Astronaut;<br/>
-🦁 Lion tamer.
+
+- 🧔🏻‍♂️ Father;
+- 🥷 Ninja coder;
+- 📸 Photographer;
+- ♦️ Poker player;
+- 🪄 Magician;
+- 🪂 Sky diver;
+- 👨🏻‍✈️ Fight pilot;
+- 🧑🏻‍🚀 Astronaut;
+- 🦁 Lion tamer.
 
 Just kidding! I'm not an astronaut...
 
+I'm a FullStack Developer and I love to code. I also love to teach others to code and learn new stuff.
 
-<!--
-**lucianostegun/lucianostegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="display: flex">
+  <a href="https://github.com/lucianostegun">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianostegun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianostegun&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+  
+### Languages and Tools:
+<img align="left" alt="LucianoStegun-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="LucianoStegun-Ts" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="LucianoStegun-React" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="LucianoStegun-PHP" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align="left" alt="LucianoStegun-HTML" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="LucianoStegun-CSS" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="LucianoStegun-Postgresql" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="LucianoStegun-MySql" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="LucianoStegun-MongoDb" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="LucianoStegun-Redis" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
+<img align="left" alt="LucianoStegun-AdonisJs" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" />
+<img align="left" alt="LucianoStegun-Symfony" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" />
+<img align="left" alt="LucianoStegun-Phalcon" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg" />
+<img align="left" alt="LucianoStegun-jQuery" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+<img align="left" alt="LucianoStegun-Docker" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img align="left" alt="LucianoStegun-Jest" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+<img align="left" alt="LucianoStegun-Subversion" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
