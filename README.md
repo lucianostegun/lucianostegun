@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, I'm Luciano Stegun 👋
+
+🧔🏻‍♂️ Father;<br/>
+🥷 Ninja coder;<br/>
+📸 Photographer;<br/>
+♦️ Poker player;<br/>
+🪄 Magician;<br/>
+🪂 Sky diver;<br/>
+👨🏻‍✈️ Fight pilot;<br/>
+🧑🏻‍🚀 Astronaut;<br/>
+🦁 Lion tamer.
+
+Just kidding! I'm not an astronaut...
+
 
 <!--
 **lucianostegun/lucianostegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
