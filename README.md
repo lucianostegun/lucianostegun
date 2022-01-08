@@ -37,6 +37,7 @@ I'm a FullStack Developer and I love to code. I also love to teach others to cod
 <img align="left" alt="LucianoStegun-Symfony" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" />
 <img align="left" alt="LucianoStegun-Phalcon" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg" />
 <img align="left" alt="LucianoStegun-jQuery" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+<img align="left" alt="LucianoStegun-SocketIo" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" />
 <img align="left" alt="LucianoStegun-Docker" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img align="left" alt="LucianoStegun-Jest" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
 <img align="left" alt="LucianoStegun-Subversion" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg" />
