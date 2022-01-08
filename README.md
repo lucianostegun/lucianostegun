@@ -17,8 +17,8 @@ I'm a FullStack Developer and I love to code. I also love to teach others to cod
 
 <div align="center" style="display: flex">
   <a href="https://github.com/lucianostegun">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianostegun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianostegun&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=lucianostegun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianostegun&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>
   
