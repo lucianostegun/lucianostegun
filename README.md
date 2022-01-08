@@ -23,21 +23,21 @@ I'm a FullStack Developer and I love to code. I also love to teach others to cod
 </div>
   
 ### Languages and Tools:
-<img align="left" alt="LucianoStegun-Js" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="LucianoStegun-Ts" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="LucianoStegun-React" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img align="left" alt="LucianoStegun-PHP" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img align="left" alt="LucianoStegun-HTML" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="left" alt="LucianoStegun-CSS" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align="left" alt="LucianoStegun-Postgresql" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="LucianoStegun-MySql" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="LucianoStegun-MongoDb" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="LucianoStegun-Redis" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
-<img align="left" alt="LucianoStegun-AdonisJs" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" />
-<img align="left" alt="LucianoStegun-Symfony" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" />
-<img align="left" alt="LucianoStegun-Phalcon" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg" />
-<img align="left" alt="LucianoStegun-jQuery" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
-<img align="left" alt="LucianoStegun-Docker" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img align="left" alt="LucianoStegun-Jest" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-<img align="left" alt="LucianoStegun-Subversion" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg" />
+<img align="left" alt="LucianoStegun-Js" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="LucianoStegun-Ts" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="LucianoStegun-React" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="LucianoStegun-PHP" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align="left" alt="LucianoStegun-HTML" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="LucianoStegun-CSS" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="LucianoStegun-Postgresql" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="LucianoStegun-MySql" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="LucianoStegun-MongoDb" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="LucianoStegun-Redis" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
+<img align="left" alt="LucianoStegun-AdonisJs" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" />
+<img align="left" alt="LucianoStegun-Symfony" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" />
+<img align="left" alt="LucianoStegun-Phalcon" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg" />
+<img align="left" alt="LucianoStegun-jQuery" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+<img align="left" alt="LucianoStegun-Docker" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img align="left" alt="LucianoStegun-Jest" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+<img align="left" alt="LucianoStegun-Subversion" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg" />
 
