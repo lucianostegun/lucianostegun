@@ -3,8 +3,8 @@
 
 - 🧔🏻‍♂️ Father;
 - 🥷 Ninja coder;
-- 🟠 O'rangers fan
 - 📸 Photographer;
+- 🟠 O'rangers fan;
 - ♦️ Poker player;
 - 🪄 Magician;
 - 🪂 Sky diver;
