@@ -2,7 +2,7 @@
 
 
 - 🧔🏻‍♂️ Father;
-- 🥷 Ninja coder;
+- 👨🏻‍💻 Code crafter;
 - 📸 Photographer;
 - 🟠 O'rangers fan;
 - ♦️ Poker player;
