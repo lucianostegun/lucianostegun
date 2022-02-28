@@ -10,9 +10,11 @@
 - 🪂 Sky diver;
 - 👨🏻‍✈️ Fighter pilot;
 - 🧑🏻‍🚀 Astronaut;
+- 👨🏻‍🍳 Chef cook;
+- 🥷🏻 Ninja;
 - 🦁 Lion tamer.
 
-Just kidding! I'm not an astronaut...
+Just kidding! I'm not a Chef cook...
 
 I'm a FullStack Developer and I love to code. I also love to teach others to code and learn new stuff.
 
