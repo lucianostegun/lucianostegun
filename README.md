@@ -16,7 +16,7 @@
 
 Just kidding! I'm not a Chef cook...
 
-I'm a FullStack Developer and I love to code. I also love to teach others to code and learn new stuff.
+I'm a FullStack Engineer and I love to code. I also love to teach others to code and learn new stuff.
 
 <div align="center" style="display: flex">
   <a href="https://github.com/lucianostegun">
@@ -53,8 +53,8 @@ I'm a FullStack Developer and I love to code. I also love to teach others to cod
 ## FEATURED PERSONAL PROJECTS
 
 
-## Edição Regional (www.edicaoregional.com.br)
-Edição Regional is a CMS platform specially built to meet the demand of small and medium-sized newspapers and magazines who want to have a complete news website without the need to develop everything from scratch.
+## Newzzer (www.newzzer.com.br)
+Newzzer is a CMS platform specially built to meet the demand of small and medium-sized newspapers and magazines who want to have a complete news website without the need to develop everything from scratch.
 
 The platform offers a complete and customized solution for managing content for news, articles, advertising and integration with external services such as Google Analytics or social networks.
 
